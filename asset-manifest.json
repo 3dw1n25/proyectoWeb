@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proyectoWeb/static/css/main.40cfbff2.chunk.css",
+    "main.js": "/proyectoWeb/static/js/main.6adca1cb.chunk.js",
+    "main.js.map": "/proyectoWeb/static/js/main.6adca1cb.chunk.js.map",
+    "runtime-main.js": "/proyectoWeb/static/js/runtime-main.71467c22.js",
+    "runtime-main.js.map": "/proyectoWeb/static/js/runtime-main.71467c22.js.map",
+    "static/js/2.059bbf5b.chunk.js": "/proyectoWeb/static/js/2.059bbf5b.chunk.js",
+    "static/js/2.059bbf5b.chunk.js.map": "/proyectoWeb/static/js/2.059bbf5b.chunk.js.map",
+    "static/js/3.376e1527.chunk.js": "/proyectoWeb/static/js/3.376e1527.chunk.js",
+    "static/js/3.376e1527.chunk.js.map": "/proyectoWeb/static/js/3.376e1527.chunk.js.map",
+    "index.html": "/proyectoWeb/index.html",
+    "static/css/main.40cfbff2.chunk.css.map": "/proyectoWeb/static/css/main.40cfbff2.chunk.css.map",
+    "static/js/2.059bbf5b.chunk.js.LICENSE.txt": "/proyectoWeb/static/js/2.059bbf5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71467c22.js",
+    "static/js/2.059bbf5b.chunk.js",
+    "static/css/main.40cfbff2.chunk.css",
+    "static/js/main.6adca1cb.chunk.js"
+  ]
+}
