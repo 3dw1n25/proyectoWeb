@@ -1,0 +1,21 @@
+import LikeButton from '../buttons/LikeButton'
+import FavButton from '../buttons/FavButton'
+import DeleteButton from '../buttons/DeleteButton'
+
+const TarjetAdmin = () => {
+    return (
+        <div className="bg-gray-300 w-5/6 flex flex-col min-h-52 rounded-xl p-8">
+            <h1>San Vergón</h1>
+            <p>"Los niños que nunca conocieron la paz tiene una moral diferente a los que nunca conocieron la guerra."</p>
+            <div className="flex mt-3">
+                <LikeButton />
+                <FavButton>Favorito</FavButton>
+                
+                <DeleteButton>Eliminar</DeleteButton>
+                
+            </div>
+        </div>
+    )
+}
+
+export default TarjetAdmin;

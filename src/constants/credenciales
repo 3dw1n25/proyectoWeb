@@ -1,0 +1,14 @@
+{
+    "group": "12",
+    "admin": {
+        "username": "gp12_admin",
+        "email": "gp12_admin@test.com",
+        "password": "_1w0U6YZHD5IECEM"
+    },
+    "user": {
+        "username": "gp12_user",
+        "email": "gp12_user@test.com",
+        "password": "X6x3yZYze4E5717r"
+    },
+    "sync": true
+}
